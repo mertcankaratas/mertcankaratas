@@ -1,5 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
+Welcome to My Page!
+
+I'm Mertcan, Software Engineer and Game Developer from İstanbul , Turkey,
+
+Currently living istanbul,
+
+### Programmer Skills 
+- C#
+- Java
+- Javascript
+- Git
+
+[İnstagram](https://www.instagram.com/stoneeblack/?hl=tr) and [LinkedIn](https://www.linkedin.com/in/mertcankaratas/)!
 <!--
 **mertcankaratas/mertcankaratas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
