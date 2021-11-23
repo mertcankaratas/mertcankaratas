@@ -12,7 +12,7 @@ Currently living istanbul,
 - Javascript
 - Git
 
-[İnstagram](https://www.instagram.com/stoneeblack/?hl=tr) and [LinkedIn](https://www.linkedin.com/in/mertcankaratas/)!
+[Instagram](https://www.instagram.com/stoneeblack/?hl=tr) and [LinkedIn](https://www.linkedin.com/in/mertcankaratas/)!
 <!--
 **mertcankaratas/mertcankaratas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
